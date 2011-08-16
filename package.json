@@ -1,0 +1,15 @@
+{
+    "name"          : "elmo-cli",
+    "description"   : "Asynchronous BDD & continuous integration for node.js",
+    "url"           : "http://vowsjs.org",
+    "keywords"      : ["testing", "spec", "test", "BDD"],
+    "author"        : "Jozef Dransfield <Jozef.Dransfield@me.com>",
+    "bin"           : {
+        "elmo": "./bin/elmo.js"
+    },
+    "directories"   : {
+        "bin": "./bin"
+    },
+    "version"       : "0.0.1",
+    "dependencies"  : {"underscore": "", "restler": ""}
+}
